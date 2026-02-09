@@ -2,7 +2,8 @@
 
 #This is a PHP SDK for integrating with the Catalyst Pay API to handle payment processing.
 
-##Important, to obtain the password that protects the .zip file, please contact support@catalystpay.com
+## Important
+To obtain the password that protects the `.zip` file, please contact **support@catalystpay.com**.
 
 ## Installation
 
