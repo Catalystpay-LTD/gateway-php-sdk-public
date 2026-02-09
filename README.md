@@ -2,6 +2,8 @@
 
 #This is a PHP SDK for integrating with the Catalyst Pay API to handle payment processing.
 
+[Download latest SDK](https://github.com/Catalystpay-LTD/gateway-php-sdk-public/raw/main/gateway-php-sdk-0.0.5.1.zip)
+
 ## Important
 To obtain the password that protects the `.zip` file, please contact **support@catalystpay.com**.
 
